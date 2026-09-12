@@ -1,0 +1,19 @@
+# Compilados
+*.exe
+*.o
+*.obj
+membyte
+
+# Carpetas de build
+build/
+out/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+*.user
+CMakeSettings.json
+
+# Sistema
+.DS_Store
+Thumbs.db
